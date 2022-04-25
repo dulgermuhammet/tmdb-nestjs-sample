@@ -14,6 +14,7 @@ packages/**/*.js
 
 # misc
 .DS_Store
+.backup
 lerna-debug.log
 npm-debug.log
 yarn-error.log
